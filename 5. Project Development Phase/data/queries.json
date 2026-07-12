@@ -600,5 +600,12 @@
     "QueryType": "learn",
     "QueryText": "Cybersecurity",
     "CreatedAt": "2026-07-11T08:49:33.892852"
+  },
+  {
+    "QueryID": "e1ffd833a52a4c6a8ec819888c4f78c1",
+    "UserID": "user_default",
+    "QueryType": "explain",
+    "QueryText": "photosynthesis",
+    "CreatedAt": "2026-07-12T09:50:45.160036"
   }
 ]
